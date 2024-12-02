@@ -1,0 +1,13 @@
+----------------------------------------
+Data: 21/11/2021
+Hora: 11:11
+Origem: asfrg
+Destino: dsvwa
+CodigAviao: 1
+CodigPiloto: 1
+CodigCopiloto: 3
+CodigoComissario: 2
+Status: Ativo
+Codigo: 15
+Tarifa: 30
+----------------------------------------

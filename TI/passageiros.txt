@@ -1,0 +1,73 @@
+Nome: a
+Endereço: a
+Telefone: (33)99780554
+Fidelidade: Sim
+Pontos Fidelidade: 0
+Codigo: 1
+Voo codigo: 8
+----------------------------------------
+Nome: 
+Endereço: a
+Telefone: (33)99780554
+Fidelidade: Sim
+Pontos Fidelidade: 0
+Codigo: 1
+Voo codigo: 8
+----------------------------------------
+Nome: j
+Endereço: j
+Telefone: (33)99780554
+Fidelidade: Sim
+Pontos Fidelidade: 0
+Codigo: 2
+----------------------------------------
+Nome: as
+Endereço: as
+Telefone: (33)99780554
+Fidelidade: Não
+Pontos Fidelidade: 0
+Codigo: 3
+----------------------------------------
+Nome: teste
+Endereço: teste
+Telefone: (33)99780554
+Fidelidade: Sim
+Pontos Fidelidade: 0
+Codigo: 4
+----------------------------------------
+Nome: teste
+Endereço: teste
+Telefone: (33)99780554
+Fidelidade: Sim
+Pontos Fidelidade: 0
+Codigo: 5
+Voo codigo: 2
+----------------------------------------
+Nome: agni sofia
+Endereço: barrio bela vista
+Telefone: (33)99780554
+Fidelidade: Não
+Pontos Fidelidade: 0
+Codigo: 6
+----------------------------------------
+Nome: aasfaf
+Endereço: asfaffa
+Telefone: (33)99780554
+Fidelidade: Sim
+Pontos Fidelidade: 0
+Codigo: 7
+----------------------------------------
+Nome: Felipe Cury
+Endereço: rua polos
+Telefone: (31)983902955
+Fidelidade: Sim
+Pontos Fidelidade: 0
+Codigo: 8
+----------------------------------------    
+Nome: rogerio souza
+Endereço: rua dos bobos
+Telefone: (12)23322332
+Fidelidade: Sim
+Pontos Fidelidade: 0
+Codigo: 9
+----------------------------------------
